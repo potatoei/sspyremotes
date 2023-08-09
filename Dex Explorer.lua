@@ -6,7 +6,7 @@
 	Developed by Moon
 	Modified for Infinite Yield
 	
-	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
+	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities. (NOT)
 	
 	This is the final version of this script.
 	You are encouraged to edit, fork, do whatever with this. I pretty much won't be updating it anymore.
